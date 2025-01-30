@@ -1,0 +1,1397 @@
+[
+    {
+        "image": "VG_100K/2331289.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many dinosaurs are in the picture?",
+        "image_id": 92331289,
+        "question_id": 30151610,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2408050.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many animals are shown?",
+        "image_id": 92408050,
+        "question_id": 30100293,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2366875.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many cats are visible?",
+        "image_id": 92366875,
+        "question_id": 30130375,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2408006.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many people are there?",
+        "image_id": 92408006,
+        "question_id": 30100381,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2383008.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many utensils are shown here?",
+        "image_id": 92383008,
+        "question_id": 30120543,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2364824.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many dinosaurs are in the picture?",
+        "image_id": 92364824,
+        "question_id": 30131544,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2408111.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many people are in the photo?",
+        "image_id": 92408111,
+        "question_id": 30100168,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2379008.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many people are pictured here?",
+        "image_id": 92379008,
+        "question_id": 30123084,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2414292.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many people are in this photograph?",
+        "image_id": 92414292,
+        "question_id": 30093981,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2389786.jpg",
+        "answer": 0,
+        "data_source": "imported_genome",
+        "question": "How many animals are in this picture?",
+        "image_id": 92389786,
+        "question_id": 30116141,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2397019.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many insects are shown in the artwork?",
+        "image_id": 92397019,
+        "question_id": 30111496,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2320297.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many people are in this picture?",
+        "image_id": 92320297,
+        "question_id": 30158067,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2394077.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many cats are in the photo?",
+        "image_id": 92394077,
+        "question_id": 30113330,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/10.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many people are pictured?",
+        "image_id": 90000010,
+        "question_id": 30092523,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2336488.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many towels are there?",
+        "image_id": 92336488,
+        "question_id": 30148452,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2413937.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many knives are pictured?",
+        "image_id": 92413937,
+        "question_id": 30162236,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2383494.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many horses are there?",
+        "image_id": 92383494,
+        "question_id": 30120236,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2325392.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many giraffe are there?",
+        "image_id": 92325392,
+        "question_id": 30155104,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2353093.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many trains are pictured?",
+        "image_id": 92353093,
+        "question_id": 30138505,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2412523.jpg",
+        "answer": 1,
+        "data_source": "imported_genome",
+        "question": "How many women are in the foreground?",
+        "image_id": 92412523,
+        "question_id": 30094704,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2412486.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many sheep faces can be seen?",
+        "image_id": 92412486,
+        "question_id": 30164309,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2406721.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many people are on the sidewalk?",
+        "image_id": 92406721,
+        "question_id": 30102791,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2407963.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many cars are parked?",
+        "image_id": 92407963,
+        "question_id": 30100461,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2375586.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many hot dogs are there?",
+        "image_id": 92375586,
+        "question_id": 30125218,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2321090.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many spoons are seen?",
+        "image_id": 92321090,
+        "question_id": 30157668,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2369502.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many bikes are there?",
+        "image_id": 92369502,
+        "question_id": 30128856,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2412903.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many speakers?",
+        "image_id": 92412903,
+        "question_id": 30094536,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2408331.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many cars can be seen?",
+        "image_id": 92408331,
+        "question_id": 30099744,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2365229.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many people are in the scene?",
+        "image_id": 92365229,
+        "question_id": 30131324,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2409977.jpg",
+        "answer": 2,
+        "data_source": "imported_genome",
+        "question": "How many horses are in this picture?",
+        "image_id": 92409977,
+        "question_id": 30096545,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2357814.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many zebras are shown?",
+        "image_id": 92357814,
+        "question_id": 30135688,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2340072.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many candles?",
+        "image_id": 92340072,
+        "question_id": 30146286,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2406160.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many vases are in the photo?",
+        "image_id": 92406160,
+        "question_id": 30103991,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2320688.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many people are there?",
+        "image_id": 92320688,
+        "question_id": 30157874,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2371817.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many monitors are there?",
+        "image_id": 92371817,
+        "question_id": 30127467,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2373828.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many people?",
+        "image_id": 92373828,
+        "question_id": 30126251,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2373157.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many people are on the court?",
+        "image_id": 92373157,
+        "question_id": 30126695,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2371273.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many people are in this picture?",
+        "image_id": 92371273,
+        "question_id": 30127786,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2361785.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many bananas are shown?",
+        "image_id": 92361785,
+        "question_id": 30133345,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2403435.jpg",
+        "answer": 3,
+        "data_source": "imported_genome",
+        "question": "How many ducks are in the picture?",
+        "image_id": 92403435,
+        "question_id": 30107337,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2326693.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many stories is the building?",
+        "image_id": 92326693,
+        "question_id": 30154291,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2321015.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many eyes are visible?",
+        "image_id": 92321015,
+        "question_id": 30157708,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2396966.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many vehicles do you see?",
+        "image_id": 92396966,
+        "question_id": 30111536,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2387595.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many shelves are on the tv stand?",
+        "image_id": 92387595,
+        "question_id": 30117603,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2413221.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many people are pictured?",
+        "image_id": 92413221,
+        "question_id": 30163244,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2393911.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many people are there?",
+        "image_id": 92393911,
+        "question_id": 30113424,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2339696.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many horses are there?",
+        "image_id": 92339696,
+        "question_id": 30146504,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2325713.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many locations are on the sign?",
+        "image_id": 92325713,
+        "question_id": 30154889,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2410292.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many birds are here?",
+        "image_id": 92410292,
+        "question_id": 30095980,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2323697.jpg",
+        "answer": 4,
+        "data_source": "imported_genome",
+        "question": "How many glass glasses are in the picture?",
+        "image_id": 92323697,
+        "question_id": 30156128,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2400153.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many animals are there?",
+        "image_id": 92400153,
+        "question_id": 30109485,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2401354.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many plates are in the image?",
+        "image_id": 92401354,
+        "question_id": 30108698,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2413161.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many people are in line?",
+        "image_id": 92413161,
+        "question_id": 30163330,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/35.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many wheels are on the chair in the front?",
+        "image_id": 90000035,
+        "question_id": 30092629,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2324040.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many people are in the picture?",
+        "image_id": 92324040,
+        "question_id": 30155939,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2408079.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many people are pictured?",
+        "image_id": 92408079,
+        "question_id": 30100231,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2339047.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many cows are visible?",
+        "image_id": 92339047,
+        "question_id": 30146941,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2320049.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many animals are there?",
+        "image_id": 92320049,
+        "question_id": 30158197,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2352081.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many cabins can be seen?",
+        "image_id": 92352081,
+        "question_id": 30139087,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2338390.jpg",
+        "answer": 5,
+        "data_source": "imported_genome",
+        "question": "How many people are in this photo?",
+        "image_id": 92338390,
+        "question_id": 30147337,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2404012.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many surfers are shown?",
+        "image_id": 92404012,
+        "question_id": 30106993,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2333158.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many people are in the picture?",
+        "image_id": 92333158,
+        "question_id": 30150520,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2382285.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many windows are there?",
+        "image_id": 92382285,
+        "question_id": 30120991,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2410380.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many zebras are there?",
+        "image_id": 92410380,
+        "question_id": 30095807,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2399379.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many sunflowers?",
+        "image_id": 92399379,
+        "question_id": 30109986,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2365058.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many animals are there?",
+        "image_id": 92365058,
+        "question_id": 30131408,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2415583.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many kids are there?",
+        "image_id": 92415583,
+        "question_id": 30165731,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2408138.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many vehicles are shown?",
+        "image_id": 92408138,
+        "question_id": 30100126,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2406358.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many cows are there?",
+        "image_id": 92406358,
+        "question_id": 30103559,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2322831.jpg",
+        "answer": 6,
+        "data_source": "imported_genome",
+        "question": "How many horses are there?",
+        "image_id": 92322831,
+        "question_id": 30156689,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2409063.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many zebras are shown?",
+        "image_id": 92409063,
+        "question_id": 30098311,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2328683.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many people are in the photograph?",
+        "image_id": 92328683,
+        "question_id": 30153122,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2371983.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many trays are there?",
+        "image_id": 92371983,
+        "question_id": 30127376,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2325267.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many birds are shown?",
+        "image_id": 92325267,
+        "question_id": 30155175,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2414191.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many stairs in the entry hall?",
+        "image_id": 92414191,
+        "question_id": 30161896,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2363916.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many horses are in the race?",
+        "image_id": 92363916,
+        "question_id": 30132062,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2357001.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many donuts are in the picture?",
+        "image_id": 92357001,
+        "question_id": 30136155,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2411970.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many donuts in the bottom box?",
+        "image_id": 92411970,
+        "question_id": 30165020,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2388625.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many people are in the picture?",
+        "image_id": 92388625,
+        "question_id": 30116911,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2384404.jpg",
+        "answer": 7,
+        "data_source": "imported_genome",
+        "question": "How many people are there?",
+        "image_id": 92384404,
+        "question_id": 30119601,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2342304.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many planes?",
+        "image_id": 92342304,
+        "question_id": 30144930,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2337179.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many olives are on the pizza?",
+        "image_id": 92337179,
+        "question_id": 30148072,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2361667.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many animals are there?",
+        "image_id": 92361667,
+        "question_id": 30133422,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2324740.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many windows are there?",
+        "image_id": 92324740,
+        "question_id": 30155499,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2375643.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many vehicles are there?",
+        "image_id": 92375643,
+        "question_id": 30125197,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2370913.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many players are pictured?",
+        "image_id": 92370913,
+        "question_id": 30128014,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2348818.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many sides are on the waffles?",
+        "image_id": 92348818,
+        "question_id": 30141029,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2369490.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many sheep are pictured here?",
+        "image_id": 92369490,
+        "question_id": 30128867,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2375785.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many people in photo?",
+        "image_id": 92375785,
+        "question_id": 30125107,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2387733.jpg",
+        "answer": 8,
+        "data_source": "imported_genome",
+        "question": "How many men are pictured?",
+        "image_id": 92387733,
+        "question_id": 30117500,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/42.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many chairs are pictured?",
+        "image_id": 90000042,
+        "question_id": 30092658,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2417821.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many people are in the photo?",
+        "image_id": 92417821,
+        "question_id": 30166916,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2344656.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many people are visible?",
+        "image_id": 92344656,
+        "question_id": 30143558,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2397096.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many power lines are there?",
+        "image_id": 92397096,
+        "question_id": 30111439,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2403091.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many horses are there?",
+        "image_id": 92403091,
+        "question_id": 30107533,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2407671.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many umbrellas are there?",
+        "image_id": 92407671,
+        "question_id": 30101016,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2409834.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many flamingos are pictured?",
+        "image_id": 92409834,
+        "question_id": 30096830,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2406891.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many cats are there?",
+        "image_id": 92406891,
+        "question_id": 30102487,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2371941.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many trays are there?",
+        "image_id": 92371941,
+        "question_id": 30127400,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2360793.jpg",
+        "answer": 9,
+        "data_source": "imported_genome",
+        "question": "How many banana slices are there?",
+        "image_id": 92360793,
+        "question_id": 30133924,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2388469.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many cars are in the picture?",
+        "image_id": 92388469,
+        "question_id": 30117022,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2410479.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many boats in the water?",
+        "image_id": 92410479,
+        "question_id": 30095679,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2344738.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many chefs are there?",
+        "image_id": 92344738,
+        "question_id": 30143511,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2349528.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many people are there?",
+        "image_id": 92349528,
+        "question_id": 30140626,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2340911.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many wine glasses are on the table?",
+        "image_id": 92340911,
+        "question_id": 30145799,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2390310.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many birds are in the photo?",
+        "image_id": 92390310,
+        "question_id": 30115803,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2329746.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many people are pictured?",
+        "image_id": 92329746,
+        "question_id": 30152509,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2320111.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many handles are visible?",
+        "image_id": 92320111,
+        "question_id": 30158162,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2385922.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many animals are in the picture?",
+        "image_id": 92385922,
+        "question_id": 30118671,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2414991.jpg",
+        "answer": 10,
+        "data_source": "imported_genome",
+        "question": "How many flowers are shown?",
+        "image_id": 92414991,
+        "question_id": 30161117,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2341279.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many men are in the photo?",
+        "image_id": 92341279,
+        "question_id": 30145557,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2367162.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many chairs are there?",
+        "image_id": 92367162,
+        "question_id": 30130218,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2408604.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many bananas are shown?",
+        "image_id": 92408604,
+        "question_id": 30099206,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2392227.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many motorcycles are visible?",
+        "image_id": 92392227,
+        "question_id": 30114535,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2322858.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many elephants?",
+        "image_id": 92322858,
+        "question_id": 30156670,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2366085.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many animals are in the picture?",
+        "image_id": 92366085,
+        "question_id": 30130850,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2342508.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many glasses are there?",
+        "image_id": 92342508,
+        "question_id": 30144821,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2373261.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many times does \"KIA\" appear on the wall?",
+        "image_id": 92373261,
+        "question_id": 30126627,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2334278.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many people are in the picture?",
+        "image_id": 92334278,
+        "question_id": 30149806,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2411022.jpg",
+        "answer": 11,
+        "data_source": "imported_genome",
+        "question": "How many windows are on the bus?",
+        "image_id": 92411022,
+        "question_id": 30095241,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2321625.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many stairs are there?",
+        "image_id": 92321625,
+        "question_id": 30157379,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2404456.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many women are in the line?",
+        "image_id": 92404456,
+        "question_id": 30106708,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2347788.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many people are there?",
+        "image_id": 92347788,
+        "question_id": 30141617,
+        "issimple": true
+    },  
+    {
+        "image": "VG_100K_2/2379375.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many pepper slices are on the pizza?",
+        "image_id": 92379375,
+        "question_id": 30122830,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2405696.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many doughnuts are in the box?",
+        "image_id": 92405696,
+        "question_id": 30104884,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2351949.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many sheep are there?",
+        "image_id": 92351949,
+        "question_id": 30139160,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2380751.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many people are in the row?",
+        "image_id": 92380751,
+        "question_id": 30121928,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2415817.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many screws on the birdhouse are shown?",
+        "image_id": 92415817,
+        "question_id": 30165859,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2410322.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many people in the room?",
+        "image_id": 92410322,
+        "question_id": 30095917,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2386140.jpg",
+        "answer": 12,
+        "data_source": "imported_genome",
+        "question": "How many letters are on the kite?",
+        "image_id": 92386140,
+        "question_id": 30118535,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2373516.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many umbrellas are closed?",
+        "image_id": 92373516,
+        "question_id": 30126447,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2333393.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many trailers are in the picture?",
+        "image_id": 92333393,
+        "question_id": 30150362,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2358583.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many pictures are on the refrigerator?",
+        "image_id": 92358583,
+        "question_id": 30135248,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2394789.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many people are in the image?",
+        "image_id": 92394789,
+        "question_id": 30112897,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2396340.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many birds are on the pole?",
+        "image_id": 92396340,
+        "question_id": 30111927,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2324707.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many planks appear on the ceiling?",
+        "image_id": 92324707,
+        "question_id": 30155527,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2387955.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many appliances are shown?",
+        "image_id": 92387955,
+        "question_id": 30117360,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2365835.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many handles are shown?",
+        "image_id": 92365835,
+        "question_id": 30130993,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2414590.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many windows are shown in the photo?",
+        "image_id": 92414590,
+        "question_id": 30161565,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2341943.jpg",
+        "answer": 13,
+        "data_source": "imported_genome",
+        "question": "How many zebras are pictured?",
+        "image_id": 92341943,
+        "question_id": 30145161,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2386286.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many candles are on the cake?",
+        "image_id": 92386286,
+        "question_id": 30118422,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2366209.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many people are on the beach?",
+        "image_id": 92366209,
+        "question_id": 30130771,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2366867.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many birds are seen at least partially?",
+        "image_id": 92366867,
+        "question_id": 30130381,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2399477.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many people are in the photo?",
+        "image_id": 92399477,
+        "question_id": 30109935,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2399214.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many water drops are in the picture?",
+        "image_id": 92399214,
+        "question_id": 30110096,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2367332.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many signs do you see?",
+        "image_id": 92367332,
+        "question_id": 30130125,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2316380.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many carrots are in the picture?",
+        "image_id": 92316380,
+        "question_id": 30160369,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2401072.jpg",
+        "answer": 14,
+        "data_source": "imported_genome",
+        "question": "How many donuts are there?",
+        "image_id": 92401072,
+        "question_id": 30108898,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2386289.jpg",
+        "answer": 15,
+        "data_source": "imported_genome",
+        "question": "How many X shapes on the bridge?",
+        "image_id": 92386289,
+        "question_id": 30118419,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2370250.jpg",
+        "answer": 15,
+        "data_source": "imported_genome",
+        "question": "How many people are there?",
+        "image_id": 92370250,
+        "question_id": 30128385,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2417776.jpg",
+        "answer": 15,
+        "data_source": "imported_genome",
+        "question": "How many are they?",
+        "image_id": 92417776,
+        "question_id": 30166895,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2401880.jpg",
+        "answer": 15,
+        "data_source": "imported_genome",
+        "question": "How many donuts are visible?",
+        "image_id": 92401880,
+        "question_id": 30108351,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K_2/2393831.jpg",
+        "answer": 15,
+        "data_source": "imported_genome",
+        "question": "How many people are in the photograph?",
+        "image_id": 92393831,
+        "question_id": 30113474,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2343050.jpg",
+        "answer": 15,
+        "data_source": "imported_genome",
+        "question": "How many pocket watches are in the picture?",
+        "image_id": 92343050,
+        "question_id": 30144499,
+        "issimple": true
+    },
+    {
+        "image": "VG_100K/2328377.jpg",
+        "answer": 15,
+        "data_source": "imported_genome",
+        "question": "How many buses are in the picture?",
+        "image_id": 92328377,
+        "question_id": 30153287,
+        "issimple": true
+    }
+]

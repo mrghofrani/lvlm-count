@@ -1,0 +1,1343 @@
+[
+    {
+        "image": "VG_100K/2356763.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many pigs are driving motor?",
+        "image_id": 92356763,
+        "question_id": 9235676318671,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2399816.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many people are drinking water?",
+        "image_id": 92399816,
+        "question_id": 923998166372,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2402934.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many horses are eating carrots?",
+        "image_id": 92402934,
+        "question_id": 924029342111,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2402875.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many people are eating food?",
+        "image_id": 92402875,
+        "question_id": 924028758200,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2387020.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many people are holding book?",
+        "image_id": 92387020,
+        "question_id": 9238702014044,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2406606.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many people are reading book?",
+        "image_id": 92406606,
+        "question_id": 9240660618196,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2410133.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many trains are visible on the right side of the chain link fence?",
+        "image_id": 92410133,
+        "question_id": 9241013314673,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/949.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many people are walking on the top of trees?",
+        "image_id": 90000949,
+        "question_id": 900009491678,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2411331.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many people are standing near the red mark?",
+        "image_id": 92411331,
+        "question_id": 9241133112903,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2317524.jpg",
+        "answer": 0,
+        "data_source": "amt",
+        "question": "How many giraffes are behind the fence?",
+        "image_id": 92317524,
+        "question_id": 9231752412833,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2412888.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many peole holds a baseball bat?",
+        "image_id": 92412888,
+        "question_id": 924128889757,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2358253.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many res homes are in the image?",
+        "image_id": 92358253,
+        "question_id": 923582538565,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2397158.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many wii player in the image are wearing glasses?",
+        "image_id": 92397158,
+        "question_id": 923971587592,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/897.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many people are wearing a red shirt?",
+        "image_id": 90000897,
+        "question_id": 900008974002,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2345703.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many people are wearing a red shirt?",
+        "image_id": 92345703,
+        "question_id": 923457038119,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2415378.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many blankets are on top of the dog?",
+        "image_id": 92415378,
+        "question_id": 9241537811069,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2334890.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many cushions have a cat on them?",
+        "image_id": 92334890,
+        "question_id": 923348902915,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2415680.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many of the people are on a horse?",
+        "image_id": 92415680,
+        "question_id": 9241568015036,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2392598.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many people are wearing a yellow shirt?",
+        "image_id": 92392598,
+        "question_id": 9239259821035,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2409877.jpg",
+        "answer": 1,
+        "data_source": "amt",
+        "question": "How many motorbikes have people on them?",
+        "image_id": 92409877,
+        "question_id": 9240987715239,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2319559.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many white horses are there?",
+        "image_id": 92319559,
+        "question_id": 9231955919248,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/1591820.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many people are wearing yellow?",
+        "image_id": 91591820,
+        "question_id": 915918204507,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2372341.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many people have bikes?",
+        "image_id": 92372341,
+        "question_id": 9237234112193,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2384005.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many dishes have a egg on top?",
+        "image_id": 92384005,
+        "question_id": 923840057980,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/3216.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many blue banners are hanging on the white and grey brick building?",
+        "image_id": 90003216,
+        "question_id": 900032161140,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2386800.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many black remotes are on the table?",
+        "image_id": 92386800,
+        "question_id": 923868001406,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2403125.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many players are wearing a black uniform top?",
+        "image_id": 92403125,
+        "question_id": 9240312514703,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2359160.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many people are sitting on the bench?",
+        "image_id": 92359160,
+        "question_id": 923591609357,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2416105.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many people are facing left?",
+        "image_id": 92416105,
+        "question_id": 9241610517585,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2344594.jpg",
+        "answer": 2,
+        "data_source": "amt",
+        "question": "How many people in the image are standing up?",
+        "image_id": 92344594,
+        "question_id": 9234459414269,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2368672.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many people in the image are not mounting a small horse?",
+        "image_id": 92368672,
+        "question_id": 9236867210712,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2364950.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many of the players in front of the soccer net are wearing blue shirts?",
+        "image_id": 92364950,
+        "question_id": 9236495014173,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2351498.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many moniters are turned off?",
+        "image_id": 92351498,
+        "question_id": 923514989026,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2342038.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many food items are below the eggs?",
+        "image_id": 92342038,
+        "question_id": 9234203811664,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2325966.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many big wheels can be see on the train?",
+        "image_id": 92325966,
+        "question_id": 923259665816,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2334420.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many children are wearing blue?",
+        "image_id": 92334420,
+        "question_id": 9233442011326,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2373168.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many t's can you see on the umbrella?",
+        "image_id": 92373168,
+        "question_id": 9237316811700,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2356788.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many different colors do the bus have?",
+        "image_id": 92356788,
+        "question_id": 923567886073,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2391766.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many people are wearing white tops?",
+        "image_id": 92391766,
+        "question_id": 9239176615753,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2348425.jpg",
+        "answer": 3,
+        "data_source": "amt",
+        "question": "How many airplanes pictured are delta airplanes?",
+        "image_id": 92348425,
+        "question_id": 9234842520844,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/1593188.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many large fake ice cream cones can you see?",
+        "image_id": 91593188,
+        "question_id": 915931882696,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2355495.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many pieces of meat are there above the top-most onion on the shish kabob?",
+        "image_id": 92355495,
+        "question_id": 9235549510136,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2363869.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many cows are there in image?",
+        "image_id": 92363869,
+        "question_id": 9236386911112,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2396477.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many fingers are in a curved shape?",
+        "image_id": 92396477,
+        "question_id": 9239647714125,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2355117.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many silver colored buses are in the picture?",
+        "image_id": 92355117,
+        "question_id": 9235511718845,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2365475.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many people in the stands are wearing a white hat?",
+        "image_id": 92365475,
+        "question_id": 9236547515361,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2316041.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many horns do you see in the picture ?",
+        "image_id": 92316041,
+        "question_id": 9231604116957,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2365568.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many wooden utensils are in the picture?",
+        "image_id": 92365568,
+        "question_id": 923655688592,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2320505.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many fruits and vegetables have white parts?",
+        "image_id": 92320505,
+        "question_id": 923205052821,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2394225.jpg",
+        "answer": 4,
+        "data_source": "amt",
+        "question": "How many people are wearing a white hat?",
+        "image_id": 92394225,
+        "question_id": 9239422513651,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2354338.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many red letters are on the front of the train?",
+        "image_id": 92354338,
+        "question_id": 92354338590,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2342662.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many green vegetables are there?",
+        "image_id": 92342662,
+        "question_id": 923426625368,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2380178.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many busses are facing the left of the picture?",
+        "image_id": 92380178,
+        "question_id": 923801783062,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/3432.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many silver balconies are there?",
+        "image_id": 90003432,
+        "question_id": 900034322483,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2353688.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many animals are standing in the image?",
+        "image_id": 92353688,
+        "question_id": 9235368815972,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2360043.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many flowers have not yet opened?",
+        "image_id": 92360043,
+        "question_id": 923600432523,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2383421.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many elephants are getting out of the water?",
+        "image_id": 92383421,
+        "question_id": 9238342111247,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2334285.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many benches are facing the camera?",
+        "image_id": 92334285,
+        "question_id": 92334285531,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2383129.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many people are wearing ties?",
+        "image_id": 92383129,
+        "question_id": 923831296181,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2407474.jpg",
+        "answer": 5,
+        "data_source": "amt",
+        "question": "How many kites are in the air?",
+        "image_id": 92407474,
+        "question_id": 9240747414017,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2330856.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many roman numerals are readable?",
+        "image_id": 92330856,
+        "question_id": 923308563646,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2340235.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many people are holding tennis rackets?",
+        "image_id": 92340235,
+        "question_id": 9234023510375,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2362992.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many letters and numbers are shown in the license plate?",
+        "image_id": 92362992,
+        "question_id": 9236299214206,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2325817.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many gold spires that are visible on the clock point upward?",
+        "image_id": 92325817,
+        "question_id": 923258175637,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2318463.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many peope are wearing green vests?",
+        "image_id": 92318463,
+        "question_id": 9231846310166,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2352722.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many banners do you see in the awning?",
+        "image_id": 92352722,
+        "question_id": 923527226693,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2325710.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many of the animals in the picture are not zebras?",
+        "image_id": 92325710,
+        "question_id": 923257101534,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2330112.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many bananas are not on a plate?",
+        "image_id": 92330112,
+        "question_id": 9233011210116,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2407271.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many fence polls are presently holding up the fence?",
+        "image_id": 92407271,
+        "question_id": 924072717631,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2363405.jpg",
+        "answer": 6,
+        "data_source": "amt",
+        "question": "How many white buttons are on the cooks shirt that you can see?",
+        "image_id": 92363405,
+        "question_id": 923634053137,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2390431.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many images are on the blue board?",
+        "image_id": 92390431,
+        "question_id": 923904317257,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2331993.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many white boat covers are in the picture?",
+        "image_id": 92331993,
+        "question_id": 923319936656,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2387330.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many giraffe legs are to be seen?",
+        "image_id": 92387330,
+        "question_id": 9238733018246,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2363209.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many red roses are on the wedding cake?",
+        "image_id": 92363209,
+        "question_id": 9236320912007,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2406680.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many players are wearing a white and black striped shirt?",
+        "image_id": 92406680,
+        "question_id": 9240668013926,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2360416.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many fence posts do you see in the background?",
+        "image_id": 92360416,
+        "question_id": 9236041613020,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/1593170.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many road signs are in the picture?",
+        "image_id": 91593170,
+        "question_id": 9159317010545,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2322301.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many people are sitting on the bench?",
+        "image_id": 92322301,
+        "question_id": 9232230110526,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2323352.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many people are holding umbrellas?",
+        "image_id": 92323352,
+        "question_id": 923233524867,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2358418.jpg",
+        "answer": 7,
+        "data_source": "amt",
+        "question": "How many of the apps are in the social folder?",
+        "image_id": 92358418,
+        "question_id": 9235841814928,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2416424.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many people are standing for a picture?",
+        "image_id": 92416424,
+        "question_id": 924164249665,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2357056.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many umbrellas are on the deck?",
+        "image_id": 92357056,
+        "question_id": 923570567603,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2365767.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many fence posts are to the right of the cement block in the fence?",
+        "image_id": 92365767,
+        "question_id": 923657677320,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2358430.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many toes does the stuffed animal have?",
+        "image_id": 92358430,
+        "question_id": 9235843037,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2350931.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many french fries are on the plate?",
+        "image_id": 92350931,
+        "question_id": 923509317604,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2415637.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many sides does the stop sign have?",
+        "image_id": 92415637,
+        "question_id": 924156375022,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2364395.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many trays of pastry are in the picture?",
+        "image_id": 92364395,
+        "question_id": 923643958830,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2407235.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many pieces of the plane are yellow?",
+        "image_id": 92407235,
+        "question_id": 9240723513699,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2348805.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many of the open umbrellas are blue?",
+        "image_id": 92348805,
+        "question_id": 9234880511762,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2345629.jpg",
+        "answer": 8,
+        "data_source": "amt",
+        "question": "How many numbers are on the front of the trains?",
+        "image_id": 92345629,
+        "question_id": 9234562910306,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2346828.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many of these men are sitting in this picture?",
+        "image_id": 92346828,
+        "question_id": 923468288077,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2316748.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many birds are there on the right signal?",
+        "image_id": 92316748,
+        "question_id": 92316748510,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2414939.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many consonants are there on the green sign?",
+        "image_id": 92414939,
+        "question_id": 924149393438,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2360945.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many letters on the sign are capitalized?",
+        "image_id": 92360945,
+        "question_id": 9236094510751,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2350652.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many yellow toys are in the image?",
+        "image_id": 92350652,
+        "question_id": 923506528180,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2316991.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many lines of black text are on the white page on the phone?",
+        "image_id": 92316991,
+        "question_id": 923169913777,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2401253.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many of the beach chairs have blue covers?",
+        "image_id": 92401253,
+        "question_id": 9240125317029,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2400254.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many seats are unoccupied in the image?",
+        "image_id": 92400254,
+        "question_id": 9240025418599,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2338784.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many letters on the blackboard are yellow?",
+        "image_id": 92338784,
+        "question_id": 923387845486,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2365943.jpg",
+        "answer": 9,
+        "data_source": "amt",
+        "question": "How many cups are in front of the woman?",
+        "image_id": 92365943,
+        "question_id": 923659437173,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2406650.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many glassses are there on the table ?",
+        "image_id": 92406650,
+        "question_id": 9240665014147,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2391303.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many bowls of purple fruit are there?",
+        "image_id": 92391303,
+        "question_id": 9239130312512,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2361217.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many buttons does the girls shirt have?",
+        "image_id": 92361217,
+        "question_id": 9236121715572,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2369416.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many circles are there above the clock?",
+        "image_id": 92369416,
+        "question_id": 9236941618979,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2321317.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many doughnuts are in the box?",
+        "image_id": 92321317,
+        "question_id": 9232131715066,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2322137.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many horse riders are not in green?",
+        "image_id": 92322137,
+        "question_id": 9232213717703,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2333397.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many windows are on the building in this image?",
+        "image_id": 92333397,
+        "question_id": 9233339719140,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2401543.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many tall trees in the background of the photo are visible to the left of the motorcycle?",
+        "image_id": 92401543,
+        "question_id": 9240154320994,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2355920.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many train cars follow the engine?",
+        "image_id": 92355920,
+        "question_id": 923559208216,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2410089.jpg",
+        "answer": 10,
+        "data_source": "amt",
+        "question": "How many shades of bush are seen behind the hydrant?",
+        "image_id": 92410089,
+        "question_id": 924100898953,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2365006.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many posts are on the railing in the backround?",
+        "image_id": 92365006,
+        "question_id": 923650063869,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2338978.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many people are in the duggout?q?",
+        "image_id": 92338978,
+        "question_id": 923389786850,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2406737.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many yellow fruits are there?",
+        "image_id": 92406737,
+        "question_id": 9240673716313,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2347858.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many digits in the telephone number?",
+        "image_id": 92347858,
+        "question_id": 923478582543,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2378287.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many windows are completely visible on the airplane are before the door?",
+        "image_id": 92378287,
+        "question_id": 923782879494,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2338597.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many blue windows are on trains?",
+        "image_id": 92338597,
+        "question_id": 9233859712635,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2320946.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many green apple under the chair?",
+        "image_id": 92320946,
+        "question_id": 923209464846,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2334894.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many letters in the digital reader board on the train are not capitalized?",
+        "image_id": 92334894,
+        "question_id": 923348948698,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2401981.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many items are standing on the fireplace mantel?",
+        "image_id": 92401981,
+        "question_id": 9240198114341,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2366187.jpg",
+        "answer": 11,
+        "data_source": "amt",
+        "question": "How many clocks on the wall have totally white faces?",
+        "image_id": 92366187,
+        "question_id": 923661879697,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/1592544.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many bunches of bananas are in the image?",
+        "image_id": 91592544,
+        "question_id": 915925443948,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2339865.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many birds's wings are above their bodies?",
+        "image_id": 92339865,
+        "question_id": 923398659354,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2350150.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many white windmills are in the image?",
+        "image_id": 92350150,
+        "question_id": 9235015010009,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2358830.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many containers with planted bushes are there in the image?",
+        "image_id": 92358830,
+        "question_id": 923588306206,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2372958.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many bag handles are extended?",
+        "image_id": 92372958,
+        "question_id": 9237295815539,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2362387.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many ski lift chairs are there?",
+        "image_id": 92362387,
+        "question_id": 923623879419,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2335125.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many wide red stripes does the man's tie have?",
+        "image_id": 92335125,
+        "question_id": 9233512513681,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2395044.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many supportes does the bridge have?",
+        "image_id": 92395044,
+        "question_id": 9239504416066,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2365249.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many little pizzas are on the tray?",
+        "image_id": 92365249,
+        "question_id": 923652499604,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2345186.jpg",
+        "answer": 12,
+        "data_source": "amt",
+        "question": "How many window sections does this bus have on the second level?",
+        "image_id": 92345186,
+        "question_id": 923451867197,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2334231.jpg",
+        "answer": 13,
+        "data_source": "amt",
+        "question": "How many lines are on the left cloth?",
+        "image_id": 92334231,
+        "question_id": 923342312037,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2369372.jpg",
+        "answer": 13,
+        "data_source": "amt",
+        "question": "How many people are wearing a hat?",
+        "image_id": 92369372,
+        "question_id": 923693725826,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2316077.jpg",
+        "answer": 13,
+        "data_source": "amt",
+        "question": "How many zebra are part of the wildebeest herd in this image?",
+        "image_id": 92316077,
+        "question_id": 9231607714952,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2359754.jpg",
+        "answer": 13,
+        "data_source": "amt",
+        "question": "How many peole wears black jackets?",
+        "image_id": 92359754,
+        "question_id": 923597547159,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2395929.jpg",
+        "answer": 13,
+        "data_source": "amt",
+        "question": "How many red flags are there?",
+        "image_id": 92395929,
+        "question_id": 9239592916626,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2376891.jpg",
+        "answer": 13,
+        "data_source": "amt",
+        "question": "How many leaves are on the branch the elephant is chewing?",
+        "image_id": 92376891,
+        "question_id": 923768917375,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2369082.jpg",
+        "answer": 13,
+        "data_source": "amt",
+        "question": "How many stripes on the zebra's mane are white?",
+        "image_id": 92369082,
+        "question_id": 923690828193,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2346586.jpg",
+        "answer": 14,
+        "data_source": "amt",
+        "question": "How many numbers are on the back of the bus?",
+        "image_id": 92346586,
+        "question_id": 9234658611823,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2355701.jpg",
+        "answer": 14,
+        "data_source": "amt",
+        "question": "How many white towels are there?",
+        "image_id": 92355701,
+        "question_id": 9235570115878,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2353006.jpg",
+        "answer": 14,
+        "data_source": "amt",
+        "question": "How many donuts in this image do not have glaze on them yet?",
+        "image_id": 92353006,
+        "question_id": 9235300612664,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2410545.jpg",
+        "answer": 14,
+        "data_source": "amt",
+        "question": "How many cabinets are visible above the counter?",
+        "image_id": 92410545,
+        "question_id": 9241054513869,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2335878.jpg",
+        "answer": 14,
+        "data_source": "amt",
+        "question": "How many blue poles in this image?",
+        "image_id": 92335878,
+        "question_id": 92335878962,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K_2/2386286.jpg",
+        "answer": 14,
+        "data_source": "amt",
+        "question": "How many blue candles are on the cake?",
+        "image_id": 92386286,
+        "question_id": 923862861969,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2346467.jpg",
+        "answer": 15,
+        "data_source": "amt",
+        "question": "How many people have on hats?",
+        "image_id": 92346467,
+        "question_id": 923464679611,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2315595.jpg",
+        "answer": 15,
+        "data_source": "amt",
+        "question": "How many white blobs are on the pizza?",
+        "image_id": 92315595,
+        "question_id": 92315595413,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2342532.jpg",
+        "answer": 15,
+        "data_source": "amt",
+        "question": "How many green apples are there?",
+        "image_id": 92342532,
+        "question_id": 9234253210075,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2367464.jpg",
+        "answer": 15,
+        "data_source": "amt",
+        "question": "How many suitcases are not yellow?",
+        "image_id": 92367464,
+        "question_id": 9236746414139,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2320575.jpg",
+        "answer": 15,
+        "data_source": "amt",
+        "question": "How many ripe bananas are on her head?",
+        "image_id": 92320575,
+        "question_id": 9232057518529,
+        "issimple": false
+    },
+    {
+        "image": "VG_100K/2350304.jpg",
+        "answer": 15,
+        "data_source": "amt",
+        "question": "How many books are on the floating book boat?",
+        "image_id": 92350304,
+        "question_id": 923503049929,
+        "issimple": false
+    }
+]

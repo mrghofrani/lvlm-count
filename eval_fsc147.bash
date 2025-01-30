@@ -1,0 +1,11 @@
+python3 eval_fsc147.py \
+    --dataset_path data/fsc-147/test.json \
+    --image_base_path data/fsc-147/images_384_VarV2 \
+    --mask_detection_box_threshold 0.1 \
+    --mask_detection_text_threshold 0.1 \
+    --mask_detection_iou_threshold 0.8 \
+    --area_detection_box_threshold 0.15 \
+    --area_detection_text_threshold 0.15 \
+    --area_detection_iou_threshold 0.15 \
+    --number_of_vertical_divides -1 \
+    --number_of_horizontal_divides 0
