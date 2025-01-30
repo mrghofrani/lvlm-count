@@ -31,7 +31,7 @@ OPENAI_API_KEY=<Your GPT4o API key>
 
 ## FSC-147
 
-Use the `eval_fsc147.bash` script.
+Use the `eval_fsc147.bash` script. Data are in `data/fsc-147/test.json` file. Image dataset is in [link](https://github.com/cvlab-stonybrook/LearningToCountEverything?tab=readme-ov-file#dataset-download).
 
 ```
 bash eval_fsc147.bash
@@ -39,7 +39,7 @@ bash eval_fsc147.bash
 
 ## TallyQA Simple Benchmark
 
-Use the `eval_tallyqa_simplebenchmark` script.
+Use the `eval_tallyqa_simplebenchmark` script. Data are in `data/tallyqa/benchmark_simple.json` file. Image dataset is in [link](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html).
 
 ```
 bash eval_tallyqa_simplebenchmark
@@ -47,7 +47,7 @@ bash eval_tallyqa_simplebenchmark
 
 ## TallyQA Complex Benchmark
 
-Use the `eval_tallyqa_complexbenchmark` script.
+Use the `eval_tallyqa_complexbenchmark` script. Data are in `data/tallyqa/benchmark_complex.json` file. Image dataset is in [link](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html).
 
 ```
 bash eval_tallyqa_complexbenchmark
@@ -55,7 +55,7 @@ bash eval_tallyqa_complexbenchmark
 
 ## Emoji-Bench
 
-Use the `eval_emoji.bash` script.
+Use the `eval_emoji.bash` script. Data are in `emoji_benchmark/benchmark_one_canvas` directory.
 
 ```
 bash eval_emoji.bash
@@ -63,7 +63,7 @@ bash eval_emoji.bash
 
 ## PASCAL VOC Benchmark
 
-Use the `eval_pascal.bash` script.
+Use the `eval_pascal.bash` script. Data are in `data/pascal/sampled_pascal.csv` file. Image dataset is in [link](http://host.robots.ox.ac.uk/pascal/VOC/).
 
 ```
 bash eval_pascal.bash
