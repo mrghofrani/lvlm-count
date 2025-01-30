@@ -169,7 +169,6 @@ Grounded-SAM/data
 tmp*
 output*
 
-*.png
 *.jpeg
 *.jpg
 *.webp
