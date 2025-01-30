@@ -22,7 +22,7 @@ wget https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alp
 pip install -r requirements.txt
 ```
 
-5. Put the API keys inside the `.env` file in the following manner:
+5. Create and `.env` file in the base project directory, and put the API keys in the file with the following manner:
 
 ```
 OPENAI_API_KEY=<Your GPT4o API key>
@@ -31,7 +31,16 @@ OPENAI_API_KEY=<Your GPT4o API key>
 
 ## FSC-147
 
-Use the `eval_fsc147.bash` script. Data are in `data/fsc-147/test.json` file. Image dataset is in [link](https://github.com/cvlab-stonybrook/LearningToCountEverything?tab=readme-ov-file#dataset-download).
+Download the images of the dataset from [link](https://github.com/cvlab-stonybrook/LearningToCountEverything?tab=readme-ov-file#dataset-download). Place the images at `data/fsc-147`. The folder should look like
+
+```
+data
+└─ 📂fsc-147/
+    └─ 📜 test.json
+    └─ 📂 images_384_VarV2
+```
+
+After setting up the data please run:
 
 ```
 bash eval_fsc147.bash
@@ -39,7 +48,17 @@ bash eval_fsc147.bash
 
 ## TallyQA Simple Benchmark
 
-Use the `eval_tallyqa_simplebenchmark` script. Data are in `data/tallyqa/benchmark_simple.json` file. Image dataset is in [link](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html).
+Download the images of the dataset from [link](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html). Place the images at `data/tallyqa/`. The folder should look like
+
+```
+data
+└─ 📂 tallyqa/
+    └─ 📜 benchmark_simple.json
+    └─ 📜 benchmark_simple.json
+    └─ 📂 genome
+```
+
+After setting up the data please run:
 
 ```
 bash eval_tallyqa_simplebenchmark
@@ -47,7 +66,17 @@ bash eval_tallyqa_simplebenchmark
 
 ## TallyQA Complex Benchmark
 
-Use the `eval_tallyqa_complexbenchmark` script. Data are in `data/tallyqa/benchmark_complex.json` file. Image dataset is in [link](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html).
+Download the images of the dataset from [link](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html). Place the images at `data/tallyqa/`. The folder should look like
+
+```
+data
+└─ 📂 tallyqa/
+    └─ 📜 benchmark_simple.json
+    └─ 📜 benchmark_complex.json
+    └─ 📂 genome
+```
+
+After setting up the data please run:
 
 ```
 bash eval_tallyqa_complexbenchmark
@@ -55,7 +84,7 @@ bash eval_tallyqa_complexbenchmark
 
 ## Emoji-Bench
 
-Use the `eval_emoji.bash` script. Data are in `emoji_benchmark/benchmark_one_canvas` directory.
+The entire dataset is already in `emoji_benchmark/benchmark_one_canvas`. Please run the command:
 
 ```
 bash eval_emoji.bash
@@ -63,7 +92,16 @@ bash eval_emoji.bash
 
 ## PASCAL VOC Benchmark
 
-Use the `eval_pascal.bash` script. Data are in `data/pascal/sampled_pascal.csv` file. Image dataset is in [link](http://host.robots.ox.ac.uk/pascal/VOC/).
+Download the images of the dataset from [link](http://host.robots.ox.ac.uk/pascal/VOC/). Place the images at `data/pascal/`. The folder should look like
+
+```
+data
+└─ 📂 tallyqa/
+    └─ 📜 sampled_pascal.csv
+    └─ 📂 VOCdevkit
+```
+
+After setting up the data please run:
 
 ```
 bash eval_pascal.bash
